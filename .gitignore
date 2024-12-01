@@ -1,2 +1,4 @@
 *.pyc 
 media/ 
+demo/
+verify_email.html/
